@@ -73,7 +73,7 @@ void main(List<String> arguments) {
       // Input the quantity of product
           print('Please input the quantity');
           String? inputQ= stdin.readLineSync();
-          int numericQ = int.parse(inputQ.toString());
+          int numericQ = int.parse(inputQ.toString());  
       // Input the discount of product
           print('Please input the discount');
           String? inputD = stdin.readLineSync();
