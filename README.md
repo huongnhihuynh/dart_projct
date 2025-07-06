@@ -18,6 +18,7 @@ Detailed Explanation:
 
 - The project imports the product and seller to extract information about the product and seller. In the project, the class TotalSale is created to calculate the total sale of the seller. In this project, try...catch and if-else if conditions are used to handle the wrong cases in calculating TotalSale.
 
+![image](https://github.com/user-attachments/assets/feef47d5-3c3b-419e-973c-fdefd1dec345)
 
 
 
