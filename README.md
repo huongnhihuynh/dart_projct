@@ -18,3 +18,5 @@ Detailed Explanation:
 
 * The project imports the product and seller to extract information about the product and seller. In the project, the class TotalSale is created to calculate the total sale of the seller. In this project, the accountant will input product and seller information using the `stdin.readLineSync` method. Besides, try...catch and if-else if conditions are used to handle the wrong cases in calculating TotalSale.
 
+* 
+![diagram](https://github.com/user-attachments/assets/e3765290-21db-41c5-b8ea-1aa938fd9b7c)
