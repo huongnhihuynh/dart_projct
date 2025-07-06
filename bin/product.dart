@@ -1,6 +1,5 @@
 
 // product declaration
-
 // mixin of product price 
 mixin HasPrice{
   double get price;

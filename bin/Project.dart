@@ -20,7 +20,7 @@ void main(List<String> arguments) {
     String? inputEmployeeID = stdin.readLineSync();
     for (String e in setEmp) {
       if (e!=inputEmployeeID){
-          continue;
+          continue; 
       } else {break;}
     }
     // this function to input position of employee

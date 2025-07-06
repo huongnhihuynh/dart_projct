@@ -72,5 +72,4 @@ class Employees with HasFirstName,HasLastName,HasFullName,HasPosition,HasEmail,V
         lastName: 'Franky', 
         position: 'Seller', email: 'DNguyen@gmail.com')];
 
-
 enum PositionList {manager, account, seller}
