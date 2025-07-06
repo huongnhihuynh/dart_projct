@@ -75,7 +75,7 @@ void main(List<String> arguments) {
           String? inputQ= stdin.readLineSync();
           int numericQ = int.parse(inputQ.toString());  
       // Input the discount of product
-          print('Please input the discount');
+          print('Please input the discount') ;
           String? inputD = stdin.readLineSync();
           int numericD = int.parse(inputD.toString());
           final ts = TotalSale(price: laptop.price, quantity: numericQ, discount: numericD);
